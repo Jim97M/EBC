@@ -209,6 +209,7 @@ header .container .col-md-7 button {
 .purchase .cards .card {
     width: 22rem;
     margin: 3vmin;
+    border: 1px solid gray;
 }
 
 .cards div {
@@ -245,7 +246,7 @@ header .container .col-md-7 button {
     height: 60vmin;
     margin-top: 15vmin;
     background: var(--bggradient);
-    font-size: 6vmin;
+    font-size: 2vmin;
     overflow-y: hidden;
 }
 
@@ -264,12 +265,12 @@ header .container .col-md-7 button {
 
 }
 
-.section-3 .desktop {
+.desktop {
     background: white;
     display: inline-block;
-    border-radius: 1.5em;
-    padding: 2vmin 2.5vmin;
-    margin: 0.2em;
+    border-radius: 40%;
+    padding: 1vmin 2.0vmin;
+    margin: 0.1em;
 
 }
 
